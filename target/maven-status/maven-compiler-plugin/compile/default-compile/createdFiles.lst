@@ -18,6 +18,7 @@ com\portfolio\davalosAlejandro\Controller\CSkills.class
 com\portfolio\davalosAlejandro\repository\RProyectos.class
 com\portfolio\davalosAlejandro\Dto\dtoEducacion.class
 com\portfolio\davalosAlejandro\Security\MainSecurity.class
+com\portfolio\davalosAlejandro\WebConfig.class
 com\portfolio\davalosAlejandro\repository\IPersonaRepository.class
 com\portfolio\davalosAlejandro\repository\RSkills.class
 com\portfolio\davalosAlejandro\Security\Repository\RolRepository.class
